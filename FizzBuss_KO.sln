@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FizzBuss_KO", "FizzBuss_KO\FizzBuss_KO.csproj", "{BE48E97E-496C-4EBB-A4A1-11CDC58F2290}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE48E97E-496C-4EBB-A4A1-11CDC58F2290}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE48E97E-496C-4EBB-A4A1-11CDC58F2290}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE48E97E-496C-4EBB-A4A1-11CDC58F2290}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE48E97E-496C-4EBB-A4A1-11CDC58F2290}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F881DC52-2ACC-4462-A8C3-78B75B7A2BC9}
+	EndGlobalSection
+EndGlobal
